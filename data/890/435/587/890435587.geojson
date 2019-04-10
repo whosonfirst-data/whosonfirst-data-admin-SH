@@ -1,0 +1,83 @@
+{
+  "id": 890435587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.68333,-15.96667,-5.68333,-15.96667",
+    "geom:latitude":-15.96667,
+    "geom:longitude":-5.68333,
+    "gn:country":"SH",
+    "gn:fcode":"PPL",
+    "gn:pop":275,
+    "iso:country":"SH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Levelwood"
+    ],
+    "name:eng_x_preferred":[
+        "Levelwood"
+    ],
+    "name:ger_x_preferred":[
+        "Levelwood"
+    ],
+    "name:pol_x_preferred":[
+        "Levelwood"
+    ],
+    "name:spa_x_preferred":[
+        "Levelwood"
+    ],
+    "qs:name":"Levelwood",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632485,
+        85677067,
+        102193527,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3370880,
+        "gp:id":1418852,
+        "qs:id":582975,
+        "wd:id":"Q13408049"
+    },
+    "wof:country":"SH",
+    "wof:created":1469052073,
+    "wof:geomhash":"48ed4ed93d910837c4681129b26cd1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":-1,
+            "dependency_id":85632485,
+            "empire_id":136253055,
+            "locality_id":890435587,
+            "region_id":85677067
+        }
+    ],
+    "wof:id":890435587,
+    "wof:lastmodified":1514504937,
+    "wof:name":"Levelwood",
+    "wof:parent_id":85677067,
+    "wof:placetype":"locality",
+    "wof:population":275,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-sh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.68333,
+    -15.96667,
+    -5.68333,
+    -15.96667
+],
+  "geometry": {"coordinates":[-5.68333,-15.96667],"type":"Point"}
+}

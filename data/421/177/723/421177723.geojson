@@ -1,0 +1,77 @@
+{
+  "id": 421177723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.41667,-7.93333,-14.41667,-7.93333",
+    "geom:latitude":-7.93333,
+    "geom:longitude":-14.41667,
+    "iso:country":"SH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"SH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2411327,
+    "qs:gn_pop":0,
+    "qs:name":"Thornton",
+    "qs:name_adm0":"St Helena Ascension and Tristan da Cunha",
+    "qs:name_adm1":"Ascension",
+    "qs:photos":75,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":75,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1352890,
+    "qs:woe_adm0":23424944,
+    "qs:woe_id":1418858,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":217,
+    "wof:belongsto":[
+        85632485,
+        102193527,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2411327,
+        "gp:id":1418858,
+        "qs:id":1352890
+    },
+    "wof:country":"SH",
+    "wof:created":1459009158,
+    "wof:geomhash":"763ec3260d12c7583a24b5a18c23e0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":-1,
+            "dependency_id":85632485,
+            "empire_id":136253055,
+            "locality_id":421177723,
+            "region_id":-1
+        }
+    ],
+    "wof:id":421177723,
+    "wof:lastmodified":1527716482,
+    "wof:name":"Thornton",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.41667,
+    -7.93333,
+    -14.41667,
+    -7.93333
+],
+  "geometry": {"coordinates":[-14.41667,-7.93333],"type":"Point"}
+}
