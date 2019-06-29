@@ -16,9 +16,6 @@
     "name:afr_x_preferred":[
         "Georgetown"
     ],
-    "name:arm_x_preferred":[
-        "\u054b\u0578\u0580\u057b\u0569\u0561\u0578\u0582\u0576"
-    ],
     "name:aze_x_preferred":[
         "Corctaun"
     ],
@@ -28,19 +25,13 @@
     "name:cat_x_preferred":[
         "Georgetown"
     ],
-    "name:chi_x_preferred":[
-        "\u4e54\u6cbb\u6566"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Georgetown"
     ],
     "name:eng_x_preferred":[
         "Georgetown"
     ],
-    "name:fre_x_preferred":[
-        "Georgetown"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Georgetown"
     ],
     "name:glg_x_preferred":[
@@ -67,6 +58,9 @@
     "name:lit_x_preferred":[
         "D\u017eord\u017etaunas"
     ],
+    "name:nld_x_preferred":[
+        "Georgetown"
+    ],
     "name:nno_x_preferred":[
         "Georgetown p\u00e5 Ascension"
     ],
@@ -79,13 +73,13 @@
     "name:por_x_preferred":[
         "Georgetown"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Georgetown"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u043e\u0440\u0434\u0436\u0442\u0430\u0443\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Georgetown"
     ],
     "name:sna_x_preferred":[
@@ -168,7 +162,7 @@
         }
     ],
     "wof:id":421174069,
-    "wof:lastmodified":1514504936,
+    "wof:lastmodified":1561840470,
     "wof:name":"Georgetown",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
