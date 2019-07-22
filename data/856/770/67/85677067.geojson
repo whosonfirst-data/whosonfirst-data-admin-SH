@@ -49,6 +49,9 @@
     "name:arz_x_preferred":[
         "\u0633\u0627\u0646\u062a \u0647\u064a\u0644\u064a\u0646\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Islla Santa Elena"
+    ],
     "name:aze_x_preferred":[
         "M\u00fcq\u0259dd\u0259s Yelena adas\u0131"
     ],
@@ -79,11 +82,17 @@
     "name:cat_x_preferred":[
         "Santa Helena"
     ],
+    "name:cdo_x_preferred":[
+        "Saint Helena"
+    ],
     "name:ces_x_preferred":[
         "Svat\u00e1 Helena"
     ],
     "name:cor_x_preferred":[
         "Sen Helena"
+    ],
+    "name:cos_x_preferred":[
+        "Sant'Elena"
     ],
     "name:cym_x_preferred":[
         "Saint Helena"
@@ -121,6 +130,9 @@
     "name:fas_x_preferred":[
         "\u0633\u0646\u062a \u0647\u0644\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u06cc\u0646\u062a \u0647\u0644\u06cc\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Saint Helena"
     ],
@@ -144,6 +156,15 @@
     ],
     "name:glv_x_preferred":[
         "Ellan Helena Noo"
+    ],
+    "name:gsw_x_preferred":[
+        "D Insle St. Helena"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0ab9\u0ac7\u0ab2\u0ac7\u0aa8\u0abe"
+    ],
+    "name:hak_x_preferred":[
+        "Saint Helena"
     ],
     "name:hbs_x_preferred":[
         "Sveta Helena"
@@ -169,6 +190,9 @@
     "name:ido_x_preferred":[
         "Sant-Helena"
     ],
+    "name:ido_x_variant":[
+        "Santa Helena"
+    ],
     "name:ind_x_preferred":[
         "Saint Helena"
     ],
@@ -181,14 +205,23 @@
     "name:jav_x_preferred":[
         "Santa H\u00e9l\u00e9na"
     ],
+    "name:jav_x_variant":[
+        "Saint Helena"
+    ],
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0cb9\u0cc6\u0cb2\u0cc6\u0ca8\u0cbe"
     ],
     "name:kat_x_preferred":[
         "\u10ec\u10db\u10d8\u10dc\u10d3\u10d0 \u10d4\u10da\u10d4\u10dc\u10d4\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u04d8\u0443\u043b\u0438\u0435 \u0415\u043b\u0435\u043d\u0430 \u0430\u0440\u0430\u043b\u044b"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0435\u043d\u0442-\u0425\u0435\u043b\u0435\u043d\u0430"
     ],
     "name:kin_x_preferred":[
         "Helena Ntagatifu"
@@ -201,6 +234,9 @@
     ],
     "name:lat_x_preferred":[
         "Insula Sanctae Helenae"
+    ],
+    "name:lat_x_variant":[
+        "Sancta Helena"
     ],
     "name:lav_x_preferred":[
         "Sv\u0113t\u0101s Hel\u0113nas Sala"
@@ -232,6 +268,9 @@
     "name:msa_x_preferred":[
         "Saint Helena"
     ],
+    "name:nan_x_preferred":[
+        "S\u00e8ng Helena"
+    ],
     "name:nds_x_preferred":[
         "Saint Helena"
     ],
@@ -239,6 +278,9 @@
         "Sint-Helena"
     ],
     "name:nno_x_preferred":[
+        "St. Helena"
+    ],
+    "name:nob_x_preferred":[
         "St. Helena"
     ],
     "name:nor_x_preferred":[
@@ -249,6 +291,9 @@
     ],
     "name:nso_x_preferred":[
         "Saint Helena"
+    ],
+    "name:oci_x_preferred":[
+        "Santa Elena"
     ],
     "name:oss_x_preferred":[
         "\u0421\u044b\u0433\u044a\u0434\u00e6\u0433 \u0415\u043b\u0435\u043d\u00e6\u0439\u044b \u0441\u0430\u043a\u044a\u0430\u0434\u0430\u0445"
@@ -271,8 +316,14 @@
     "name:rus_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432 \u0421\u0432\u044f\u0442\u043e\u0439 \u0415\u043b\u0435\u043d\u044b"
     ],
+    "name:scn_x_preferred":[
+        "Santa Lena"
+    ],
     "name:sco_x_preferred":[
         "Saunt Helena"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0dc4\u0dd9\u0dbd\u0dda\u0db1\u0dcf"
     ],
     "name:slk_x_preferred":[
         "Sv\u00e4t\u00e1 Helena"
@@ -301,11 +352,23 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd \u0b8e\u0bb2\u0ba9\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0418\u0437\u0433\u0435 \u0415\u043b\u0435\u043d\u0430 \u0443\u0442\u0440\u0430\u0432\u044b"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c39\u0c46\u0c32\u0c46\u0c28\u0c3e"
+    ],
     "name:tgl_x_preferred":[
         "Santa Elena"
     ],
+    "name:tgl_x_variant":[
+        "Santa Helena"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e40\u0e2e\u0e40\u0e25\u0e19\u0e32"
+    ],
+    "name:tso_x_preferred":[
+        "Saint Helena"
     ],
     "name:tur_x_preferred":[
         "Saint Helena"
@@ -340,11 +403,17 @@
     "name:yor_x_preferred":[
         "Saint Helena"
     ],
+    "name:yue_x_preferred":[
+        "\u8056\u6d77\u502b\u5a1c\u5cf6"
+    ],
     "name:zho_min_nan_x_preferred":[
         "S\u00e8ng Helena"
     ],
     "name:zho_x_preferred":[
         "\u5723\u8d6b\u52d2\u62ff"
+    ],
+    "name:zho_x_variant":[
+        "\u5723\u8d6b\u52d2\u62ff\u5c9b"
     ],
     "name:zho_yue_x_preferred":[
         "\u8056\u6d77\u502b\u5a1c\u5cf6"
@@ -471,7 +540,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550510,
+    "wof:lastmodified":1563571997,
     "wof:name":"Saint Helena",
     "wof:parent_id":85632485,
     "wof:placetype":"region",
