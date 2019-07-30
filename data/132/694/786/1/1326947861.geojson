@@ -25,6 +25,24 @@
     "iso:country":"SH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Two Boats Village"
+    ],
+    "name:deu_x_preferred":[
+        "Two Boats Village"
+    ],
+    "name:pol_x_preferred":[
+        "Two Boats Village"
+    ],
+    "name:por_x_preferred":[
+        "Two Boats"
+    ],
+    "name:ron_x_preferred":[
+        "Two Boats"
+    ],
+    "name:spa_x_preferred":[
+        "Dos Barcos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632485,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1326947861,
-    "wof:lastmodified":1537573379,
+    "wof:lastmodified":1564215312,
     "wof:name":"Two Boats Village",
     "wof:parent_id":85677063,
     "wof:placetype":"locality",
