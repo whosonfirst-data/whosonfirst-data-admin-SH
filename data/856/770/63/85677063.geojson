@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "administrative area"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AC"
+    ],
     "lbl:latitude":-7.935151,
     "lbl:longitude":-14.364877,
     "mps:latitude":-7.935151,
@@ -192,16 +195,13 @@
         }
     ],
     "wof:id":85677063,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1564215313,
+    "wof:lastmodified":1565736510,
     "wof:name":"Ascension",
     "wof:parent_id":85632485,
     "wof:placetype":"region",

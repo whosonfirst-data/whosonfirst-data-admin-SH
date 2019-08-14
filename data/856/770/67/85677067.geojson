@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "dependency"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SH"
+    ],
     "lbl:latitude":-15.950797,
     "lbl:longitude":-5.711732,
     "mps:latitude":-15.950797,
@@ -531,16 +534,13 @@
         }
     ],
     "wof:id":85677067,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563571997,
+    "wof:lastmodified":1565736510,
     "wof:name":"Saint Helena",
     "wof:parent_id":85632485,
     "wof:placetype":"region",

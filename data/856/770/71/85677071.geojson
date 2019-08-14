@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "dependency"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TA"
+    ],
     "lbl:latitude":-40.3416,
     "lbl:longitude":-9.967925,
     "mps:latitude":-40.3416,
@@ -412,16 +415,13 @@
         }
     ],
     "wof:id":85677071,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563571999,
+    "wof:lastmodified":1565736510,
     "wof:name":"Tristan da Cunha",
     "wof:parent_id":-1,
     "wof:placetype":"region",
