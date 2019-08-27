@@ -10,8 +10,12 @@
     "geom:latitude":-7.93333,
     "geom:longitude":-14.41667,
     "iso:country":"SH",
+    "lbl:bbox":"-14.43667,-7.95333,-14.39667,-7.91333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Georgetown"
@@ -165,7 +169,7 @@
     "wof:concordances":{
         "gn:id":2411397,
         "gp:id":1418849,
-        "qs:id":316847,
+        "qs_pg:id":316847,
         "wd:id":"Q695774",
         "wk:page":"Georgetown, Ascension Island"
     },
@@ -183,7 +187,7 @@
         }
     ],
     "wof:id":421174069,
-    "wof:lastmodified":1563572002,
+    "wof:lastmodified":1566644296,
     "wof:name":"Georgetown",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
