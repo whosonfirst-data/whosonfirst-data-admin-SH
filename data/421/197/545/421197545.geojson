@@ -10,8 +10,12 @@
     "geom:latitude":-15.93872,
     "geom:longitude":-5.71675,
     "iso:country":"SH",
+    "lbl:bbox":"-5.73675,-15.95872,-5.69675,-15.91872",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Jamestown"
@@ -305,10 +309,12 @@
     "wof:concordances":{
         "gn:id":2645977,
         "gp:id":24623,
-        "qs:id":147508,
-        "qs_pg:id":908022,
+        "qs_pg:id":147508,
         "wd:id":"Q30970",
         "wk:page":"Jamestown, Saint Helena"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":908022
     },
     "wof:country":"SH",
     "wof:created":1459009917,
@@ -324,7 +330,7 @@
         }
     ],
     "wof:id":421197545,
-    "wof:lastmodified":1563572004,
+    "wof:lastmodified":1566644296,
     "wof:name":"Jamestown",
     "wof:parent_id":85677067,
     "wof:placetype":"locality",

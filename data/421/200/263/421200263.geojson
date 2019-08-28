@@ -10,8 +10,12 @@
     "geom:latitude":-37.06757,
     "geom:longitude":-12.31155,
     "iso:country":"SH",
+    "lbl:bbox":"-12.33155,-37.08757,-12.29155,-37.04757",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Edinburgh of the Seven Seas"
@@ -163,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0434\u0438\u043d\u0431\u0443\u0440\u0433 \u0441\u0435\u043c\u0438 \u043c\u043e\u0440\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tristan Island Settlement"
     ],
     "name:urd_x_preferred":[
@@ -206,7 +210,7 @@
     "wof:concordances":{
         "gn:id":3370726,
         "gp:id":1418856,
-        "qs:id":208804,
+        "qs_pg:id":208804,
         "wd:id":"Q498153",
         "wk:page":"Edinburgh of the Seven Seas"
     },
@@ -222,7 +226,7 @@
         }
     ],
     "wof:id":421200263,
-    "wof:lastmodified":1563572005,
+    "wof:lastmodified":1566644296,
     "wof:name":"Settlement of Edinburgh",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
