@@ -318,6 +318,9 @@
     },
     "wof:country":"SH",
     "wof:created":1459009917,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a9b1b350532bf5a98728cdcf3a3cb714",
     "wof:hierarchy":[
         {
@@ -330,7 +333,7 @@
         }
     ],
     "wof:id":421197545,
-    "wof:lastmodified":1566644296,
+    "wof:lastmodified":1582356318,
     "wof:name":"Jamestown",
     "wof:parent_id":85677067,
     "wof:placetype":"locality",
