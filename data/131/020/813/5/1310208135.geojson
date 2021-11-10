@@ -73,10 +73,10 @@
         "Jamestown"
     ],
     "name:ell_x_preferred":[
-        "Jamestown"
+        "\u03a4\u03b6\u03ad\u03b9\u03bc\u03c3\u03c4\u03b1\u03bf\u03c5\u03bd"
     ],
     "name:ell_x_variant":[
-        "\u03a4\u03b6\u03ad\u03b9\u03bc\u03c3\u03c4\u03b1\u03bf\u03c5\u03bd"
+        "Jamestown"
     ],
     "name:eng_x_preferred":[
         "Jamestown"
@@ -287,7 +287,7 @@
         }
     ],
     "wof:id":1310208135,
-    "wof:lastmodified":1566644295,
+    "wof:lastmodified":1636502603,
     "wof:name":"Jamestown",
     "wof:parent_id":85677067,
     "wof:placetype":"locality",
