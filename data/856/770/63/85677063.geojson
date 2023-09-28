@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007291,
-    "geom:area_square_m":89291178.712843,
+    "geom:area_square_m":89291608.879756,
     "geom:bbox":"-14.417714,-7.979669,-14.294789,-7.877862",
     "geom:latitude":-7.935453,
     "geom:longitude":-14.363945,
@@ -195,12 +195,14 @@
         "gn:id":2411430,
         "gp:id":20069822,
         "hasc:id":"SH.AC",
+        "iso:code":"SH-AC",
         "iso:id":"SH-AC",
         "qs_pg:id":307857,
         "unlc:id":"SH-AC"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SH",
-    "wof:geomhash":"e80f135c22b5ec61eca7d258996e2443",
+    "wof:geomhash":"6d51bdd5190a114565936b9a69ae3e7f",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -217,7 +219,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636502603,
+    "wof:lastmodified":1695884937,
     "wof:name":"Ascension",
     "wof:parent_id":85632485,
     "wof:placetype":"region",
