@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01583,
-    "geom:area_square_m":152716434.372372,
+    "geom:area_square_m":152716756.137584,
     "geom:bbox":"-12.335317,-40.397882,-9.895375,-37.055759",
     "geom:latitude":-38.69329,
     "geom:longitude":-11.13726,
@@ -436,13 +436,15 @@
         "gn:id":3370684,
         "gp:id":20069823,
         "hasc:id":"SH.TA",
+        "iso:code":"SH-TA",
         "iso:id":"SH-TA",
         "qs_pg:id":894233,
         "unlc:id":"SH-TA",
         "wd:id":"Q220982"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SH",
-    "wof:geomhash":"05f8ddbf5d1112486f7d605ef1ca5d9e",
+    "wof:geomhash":"40a5be837289b08e215c484736dc42bb",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -457,7 +459,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690863643,
+    "wof:lastmodified":1695884937,
     "wof:name":"Tristan da Cunha",
     "wof:parent_id":-1,
     "wof:placetype":"region",
