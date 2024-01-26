@@ -9,6 +9,20 @@
     "geom:bbox":"-5.71675,-15.93872,-5.71675,-15.93872",
     "geom:latitude":-15.93872,
     "geom:longitude":-5.71675,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jamestown",
+    "gn:country_code":"SH",
+    "gn:dem":426,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLC",
+    "gn:geonameid":3370903,
+    "gn:latitude":-15.93872,
+    "gn:longitude":-5.71675,
+    "gn:modification_date":"2016-04-22",
+    "gn:name":"Jamestown",
+    "gn:population":637,
+    "gn:timezone":"Atlantic/St_Helena",
     "iso:country":"SH",
     "lbl:bbox":"-5.73675,-15.95872,-5.69675,-15.91872",
     "lbl:max_zoom":17.0,
@@ -328,7 +342,15 @@
         "wk:page":"Jamestown, Saint Helena"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":908022
+        "gn:id":[
+            3370903
+        ],
+        "qs_pg:id":[
+            908022
+        ],
+        "wk:page":[
+            "Jamestown%2C_Saint_Helena"
+        ]
     },
     "wof:country":"SH",
     "wof:created":1459009917,
@@ -347,7 +369,7 @@
         }
     ],
     "wof:id":421197545,
-    "wof:lastmodified":1690863644,
+    "wof:lastmodified":1706240661,
     "wof:name":"Jamestown",
     "wof:parent_id":85677067,
     "wof:placetype":"locality",
@@ -355,7 +377,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-sh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310208135
+    ],
     "wof:tags":[]
 },
   "bbox": [
